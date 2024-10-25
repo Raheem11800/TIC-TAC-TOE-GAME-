@@ -1,0 +1,42 @@
+body {
+  background-color: #22223b;
+}
+
+.r1,
+.r2,
+.r3 {
+  color: white;
+  text-align: center;
+}
+
+.r11,
+.r22,
+.r33 {
+  background-color: #4a4e69;
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+  border-radius: 10px;
+  font-size: 55px;
+}
+
+h1 {
+  color: white;
+}
+
+.rb {
+  background-color: #4caf50;
+  height: 40px;
+  width: 150px;
+  border: 1px solid black;
+  border-radius: 10px;
+  color: white;
+}
+
+.winmsg {
+  color: white;
+}
+
+.hide {
+  display: none;
+}
